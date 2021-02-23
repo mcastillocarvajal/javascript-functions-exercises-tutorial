@@ -4,7 +4,7 @@ var dollarToEuro = function(dollarValue){
 var euroToYen = function(euroValue){
 	return euroValue * 124.15;
 }
-//***** YOUR CODE BELOW ******///
+//***** YOUR CODE BELOW ↓ ******///
 
 newEuroValue = dollarToEuro(137)
 
