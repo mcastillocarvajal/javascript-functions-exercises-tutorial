@@ -1,7 +1,7 @@
 // Your code goes here:
 
 function renderPerson(name,dateOfBirth,eyesColor,age,gender){
-    return name+" is a "+age+" years old "+gender+" born on "+dateOfBirth+" with "+eyesColor+" eyes";
+    return name+" is a "+age+" years old "+gender+" born in "+dateOfBirth+" with "+eyesColor+" eyes";
 }
 
 
